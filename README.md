@@ -21,6 +21,8 @@ wsl --install
   * [comment wrapper](https://github.com/stkb/Rewrap)
   * [powershell linter](https://github.com/PowerShell/vscode-powershell)
   * [git blame](https://github.com/Sertion/vscode-gitblame)
+  * [hex editor](https://github.com/microsoft/vscode-hexeditor)
+  * [sort lines](https://github.com/Tyriar/vscode-sort-lines)
   * c++
     * [clang-format](https://github.com/xaverh/vscode-clang-format-provider)
     * [cpp tools](https://github.com/Microsoft/vscode-cpptools)
@@ -30,3 +32,7 @@ wsl --install
     * [syntax highlighting](https://github.com/JustusAdam/language-haskell)
     * [ghc integration](https://github.com/dramforever/vscode-ghc-simple)
   * [Windows-subsystem for Linux](https://github.com/Microsoft/vscode-remote-release)
+  * Go
+    * [vscode-go](https://github.com/golang/vscode-go)
+  * Bash
+    * [shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck)
